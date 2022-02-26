@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WejsoneKK aka BloxiaczeQ
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Kotlin, C++, C, C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript, PHP, LUA, Spring, Kotlin
+- 💞️ I’m looking to collaborate on SavvyBot Project
 - 📫 How to reach me ...
 
 <!---
